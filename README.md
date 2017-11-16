@@ -1,3 +1,3 @@
-# python_SA
-SA algorithm
-This is a algorithm of POS for python
+# python_PSO
+PSO algorithm
+This is a algorithm of PSO for python
